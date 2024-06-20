@@ -1,0 +1,21 @@
+*{
+  font-family: poppins;
+  text-align: center;
+}
+.head{
+  text-align: center;
+  margin-bottom: 60px;
+}
+.product-imgs{
+  width: 50px;
+}
+table {
+  border: 1px solid;
+}
+th,td{
+  border-bottom: 1px solid;
+  border-right: 1px solid;
+}
+.stats{
+
+}
